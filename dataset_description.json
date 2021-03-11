@@ -1,5 +1,5 @@
 {
-    "Name": "iEEG Interictal Asleep HFO Dataset",
+    "Name": "interictal iEEG during slow-wave sleep with HFO markings",
     "BIDSVersion": "1.4.0",
     "DatasetType": "raw",
     "Authors": [
